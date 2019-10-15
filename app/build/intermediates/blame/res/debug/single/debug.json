@@ -504,6 +504,10 @@
         "source": "/Users/shin-yeji/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/474ecbd1cad21674245e74e28aefcd5a/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
+        "merged": "/Users/shin-yeji/Desktop/orinaguri/app/build/intermediates/res/merged/debug/drawable_map.jpeg.flat",
+        "source": "/Users/shin-yeji/Desktop/orinaguri/app/src/main/res/drawable/map.jpeg"
+    },
+    {
         "merged": "/Users/shin-yeji/Desktop/orinaguri/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
         "source": "/Users/shin-yeji/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/474ecbd1cad21674245e74e28aefcd5a/res/anim/abc_popup_exit.xml"
     },
@@ -738,6 +742,10 @@
     {
         "merged": "/Users/shin-yeji/Desktop/orinaguri/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/Users/shin-yeji/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/474ecbd1cad21674245e74e28aefcd5a/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/shin-yeji/Desktop/orinaguri/app/build/intermediates/res/merged/debug/drawable_mise.jpeg.flat",
+        "source": "/Users/shin-yeji/Desktop/orinaguri/app/src/main/res/drawable/mise.jpeg"
     },
     {
         "merged": "/Users/shin-yeji/Desktop/orinaguri/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
