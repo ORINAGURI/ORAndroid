@@ -17,12 +17,10 @@ class MainActivity: AppCompatActivity(), OnMapReadyCallback {
 
     override fun onCreate(savedInstanceState:Bundle?) {
         super.onCreate(savedInstanceState)
-        /*
         setContentView(R.layout.activity_main)
 
         val mapFragment = getSupportFragmentManager().findFragmentById(R.id.map) as SupportMapFragment
         mapFragment.getMapAsync(this)
-        */
     }
 
     override fun onMapReady(googleMap: GoogleMap?) {
